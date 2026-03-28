@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://capt-alamgir.github.io/sitemap.xml
